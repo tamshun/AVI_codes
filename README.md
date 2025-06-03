@@ -1,6 +1,6 @@
 # AVITA 関連のコード集
 
-##　Auto_debugger
+## Auto_debugger
 ディレクトリを移動して実行
 
 ```bash
