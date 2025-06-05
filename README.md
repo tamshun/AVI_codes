@@ -1,4 +1,4 @@
-# AVITA 関連のコード集
+# AVIXX 関連のコード集
 
 ## Auto_debugger
 ディレクトリを移動して実行
